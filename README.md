@@ -24,6 +24,19 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## その他開発手順
+
+・tailwindcssを使用して開発すること
+
+tailwindcssのインストールについて：https://qiita.com/y_kato_eng/items/439dae65ba13d050c91e
+
+・ローカルで起動する際の注意事項
+
+1.node.jsやnpmコマンドをインストールし、パスを通すこと
+
+2.npm run start時にreact-scriptsが必要と出た場合、npm install react-scriptsを行うこと
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
